@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace domainShop
 {
-    class User
+    public class User
     {
         public string Id { get; set; }
         public string Name { get; set; }
