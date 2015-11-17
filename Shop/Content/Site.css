@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: #f695f4;
+    background-color: #ffe200;
     border-top: solid 10px #000;
     color: #333;
     font-size: .85em;
@@ -28,7 +28,7 @@ a {
     }
 
     a:hover {
-        background-color: #c7d1d6;
+        background-color: #7bbad9;
     }
 
 header, footer, hgroup,
