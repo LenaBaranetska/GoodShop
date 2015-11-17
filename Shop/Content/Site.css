@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: #fff;
+    background-color: #f695f4;
     border-top: solid 10px #000;
     color: #333;
     font-size: .85em;
@@ -60,7 +60,7 @@ mark {
 
 h1, h2, h3,
 h4, h5, h6 {
-    color: #000;
+    color: #ff0303;
     margin-bottom: 0;
     padding-bottom: 0;
 }
@@ -120,7 +120,7 @@ header .content-wrapper {
 
 footer {
     clear: both;
-    background-color: #e2e2e2;
+    background-color: #efc0c0;
     font-size: .8em;
     height: 100px;
 }
@@ -129,7 +129,7 @@ footer {
 /* site title
 ----------------------------------------------------------*/
 .site-title {
-    color: #c8c8c8;
+    color: #fa8787;
     font-family: Rockwell, Consolas, "Courier New", Courier, monospace;
     font-size: 2.3em;
     margin: 0;
@@ -233,7 +233,7 @@ ul#menu {
 
 /* page titles */
 hgroup.title {
-    margin-bottom: 10px;
+    margin-bottom: 20px;
 }
 
 hgroup.title h1, hgroup.title h2 {
@@ -601,7 +601,7 @@ tr.pager td {
 
     /* logo */
     header .site-title {
-        margin: 10px;
+        margin: 20px;
         text-align: center;
     }
 
